@@ -3,7 +3,7 @@ A Curious Mind | AI Enthusiast | MERN Stack Developer | Tech Community Builder
 
 🎓 I'm a third-year Computer Science student specializing in Artificial Intelligence. <br>
 🌱 Currently Learning Next.js. <br>
-💡 Passionate about creating impactful solutions using ML, AI, and Backend Development. <br>
+💡 Passionate about creating impactful solutions using ML, AI, and Backend Development. I have experience with Node.js , React.js , Express.js. <br>
 🚀 Actively contributing to open-source, participating in hackathons, and building real-world projects. <br>
 🛡 Cybersecurity-aware | 📢 Cyber Warrior with Quick Heal Foundation <br>
 🌱 Constantly learning & sharing knowledge through events, workshops, and community engagement. <br>
