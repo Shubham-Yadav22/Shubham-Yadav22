@@ -1,5 +1,29 @@
 # 💫 About Me:
-I am currently learning Next. js.<br>I am currently working on a notes-sharing app.<br>I have experience in Node.js , React.js, and MongoDB. <br><br> <br>
+A Curious Mind | AI Enthusiast | MERN Stack Developer | Tech Community Builder
+
+🎓 I'm a third-year Computer Science student specializing in Artificial Intelligence. <br>
+💡 Passionate about creating impactful solutions using ML, AI, and Backend Development. <br>
+🚀 Actively contributing to open-source, participating in hackathons, and building real-world projects. <br>
+🛡 Cybersecurity-aware | 📢 Cyber Warrior with Quick Heal Foundation <br>
+🌱 Constantly learning & sharing knowledge through events, workshops, and community engagement. <br>
+
+<br> <br> <br>
+
+
+Some of my projects:  <br>
+🤖 Sign Language Detection System <br>
+
+🧭 AI-Powered Career Guidance System  <br>
+
+🏥 Hospital Bed Availability Tracker  <br>
+
+🧵 Dress Code Monitoring using YOLO  <br>
+
+📚 Notes & Assignments Sharing Web App  <br>
+
+🧠 Philosophical Personality Checker (React App)  <br>
+
+ <br>  <br>  <br>
 
 
 ## 🌐 Socials:
