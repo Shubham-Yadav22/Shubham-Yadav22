@@ -9,18 +9,13 @@ A Curious Mind | AI Enthusiast | MERN Stack Developer | Tech Community Builder
 
 <br> <br> <br>
 
+##Some of my projects:  <br>
 
-Some of my projects:  <br>
 🤖 Sign Language Detection System <br>
-
 🧭 AI-Powered Career Guidance System  <br>
-
 🏥 Hospital Bed Availability Tracker  <br>
-
 🧵 Dress Code Monitoring using YOLO  <br>
-
 📚 Notes & Assignments Sharing Web App  <br>
-
 🧠 Philosophical Personality Checker (React App)  <br>
 
  <br>  <br>  <br>
