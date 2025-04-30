@@ -11,7 +11,7 @@ A Curious Mind | AI Enthusiast | MERN Stack Developer | Tech Community Builder
 <br> <br> <br>
 
 ## Some of my projects:  <br>
-
+🚨 VOICE - Voice of Information in Critcial Situation and Emergency <br>
 🤖 Sign Language Detection System <br>
 🧵 Dress Code Monitoring using YOLO  <br>
 🧠 Philosophical Personality Checker (React App)  <br>
